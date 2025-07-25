@@ -1,5 +1,5 @@
 //ejercicio 1
-let base = 1.50;
+let base = 2.50;
 let altura = 3.59;
 let areaTriangulo = (base * altura) / 2;
 console.log (`El area de un triangulo es: ${areaTriangulo}`);
