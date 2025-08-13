@@ -29,7 +29,7 @@ console.log(`\n === Tratamiento de cadenas ===`);
     console.log(`La frase sin espacios al inicio y final es: '${fraseTrim}'`);
 
     //5.substring
-    const subCadena = frase.substring(2,6);
+    const subCadena = frase.substring(4,8);
     console.log(` los primeros 5 caracteres de la frase son: '${subCadena}'`);
 
     //6.slice
