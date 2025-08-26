@@ -10,4 +10,5 @@ rl.question('Ingresa su mesaje de error: ', (mensaje) => {
 
     console.log(`La palabra "error" se encuentra en la posición: ${posicionError}`);
     rl.close();
+    
 });

@@ -67,5 +67,4 @@ console.log(`\n === Tratamiento de cadenas ===`);
     const terminaConAdios = frase.endsWith('adios'); 
     console.log(`La frase termina con 'hola': ${terminaConAdios}`);
      rl.close();
-
 });

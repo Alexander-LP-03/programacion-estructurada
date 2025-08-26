@@ -1,3 +1,4 @@
+//ejercicio 1 parte 2
 import readline from 'readline';
 
 const rl = readline.createInterface({ 

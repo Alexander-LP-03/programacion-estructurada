@@ -1,3 +1,4 @@
+//ejemplo 1 de la clase 4
 let edad = 12;
 let tieneDUI = true;
 

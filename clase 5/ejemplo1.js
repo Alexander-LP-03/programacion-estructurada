@@ -1,5 +1,6 @@
 //IMPORTAR EL MODULO
 //const readline = require('readline');
+
 import readline from 'readline';
 
 //CREAR UNA INTERFAZ

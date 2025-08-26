@@ -11,7 +11,6 @@ rl.question('Ingrese su nombre completo: ', (nombreCompleto) => {
 
     console.log(`Nombre sin espacios: "${nombreLimpio}"`);
     console.log(`Cantidad de caracteres sin contar espacios: ${cantidadCaracteres}`);
-    
     rl.close();
 
 })

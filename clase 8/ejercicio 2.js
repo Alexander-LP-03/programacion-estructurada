@@ -11,4 +11,5 @@ rl.question('Ingrese su correo electrónico: ', (correo) => {
     console.log(`Correo en minúsculas: ${correoMinusculas}`);
     console.log(`¿El correo pertenece al dominio Gmail? ${esGmail}`);
     rl.close();
+    
 });

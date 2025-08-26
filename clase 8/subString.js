@@ -17,5 +17,6 @@ rl.question('Ingrese el código del pedido (ej: PED-2025-00045): ', (codigo) =>
     console.log(`Año del pedido: ${año}`);
     console.log(`Número de orden: ${numeroOrden}`);
     rl.close();
+    
 })
   

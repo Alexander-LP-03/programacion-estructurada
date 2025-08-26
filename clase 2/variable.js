@@ -1,3 +1,4 @@
+
 var helloWorld = "Hello, World!";
 var greeting = "Welcome to the JavaScript world!";
 console.log(helloWorld);

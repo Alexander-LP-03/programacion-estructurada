@@ -11,4 +11,5 @@ rl.question ('ingresa la base del rectangulo:', (base) => {
         console.log(`El area del rectangulo con base ${base} y altura ${altura} es: ${area}`);
         rl.close();
     });
+    
     });

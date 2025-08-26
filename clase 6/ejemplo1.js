@@ -11,4 +11,5 @@ rl.question ('ingresa un primer numero:', (num1) => {
         console.log(`La suma de ${num1} y ${num2}, es: ${suma}`);
         rl.close();
     });
+    
 });
