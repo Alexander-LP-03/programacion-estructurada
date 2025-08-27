@@ -52,4 +52,5 @@ rl.question('Ingrese un numero: ', (num) => {
   //console.log(`toString(16): ${numero.toString(16)}`);
 
     rl.close();
+    
 }) 
