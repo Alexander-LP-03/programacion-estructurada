@@ -8,7 +8,7 @@ let vehiculo = {
   }
 };
 
-vehiculo.seguro.compania = "Mapfre";
+vehiculo.seguro.compania = "seguros money";
 vehiculo.seguro.fechaVencimiento = "2026-05-10";
 delete vehiculo.seguro.vigente;
 
