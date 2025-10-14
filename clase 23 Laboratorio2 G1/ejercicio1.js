@@ -29,7 +29,6 @@ function pedirGasto() {
     gastos.forEach((gasto, i) => {
       console.log(`Gasto ${i + 1}: $${gasto.toFixed(2)}`);
     });
-    console.log("------------------------");
     console.log(`Total gastado: $${total.toFixed(2)}`);
 
     rl.close();

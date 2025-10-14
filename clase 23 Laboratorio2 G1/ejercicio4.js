@@ -31,7 +31,6 @@ function pedirDato() {
     console.log(`Sueldo base: $${sueldo.toFixed(2)}`);
     console.log(`Bono: $${bono.toFixed(2)}`);
     console.log(`Descuento por seguro: $${descuento.toFixed(2)}`);
-    console.log("-----------------------------");
     console.log(`Salario final: $${salarioFinal.toFixed(2)}`);
 
     rl.close();

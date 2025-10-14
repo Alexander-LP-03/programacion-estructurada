@@ -30,7 +30,6 @@ function pedirConsumo() {
     consumos.forEach((litros, i) => {
       console.log(`Viaje ${i + 1}: ${litros.toFixed(2)} litros`);
     });
-    console.log("-------------------------------");
     console.log(`Promedio de consumo: ${promedio.toFixed(2)} litros`);
 
     rl.close();
